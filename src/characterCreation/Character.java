@@ -47,6 +47,7 @@ public class Character {
         stats.put("int", 2);
         stats.put("cha", 2);
 
+        //test
 
         bonuses.put("str", 0);
         bonuses.put("dex", 0);
